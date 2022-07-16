@@ -2,6 +2,8 @@
 
 
 Richard Whitaker, BSChE, MBA, rcwhit80.pythonanywhere.com
+
+
     Interested in energy, engineering, sustainability, resource
     and personnel management, business developent and strategy,
     finance and execution...
