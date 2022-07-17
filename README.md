@@ -16,7 +16,7 @@ Richard Whitaker, BSChE, MBA, rcwhit80.pythonanywhere.com
     engineering, business analysis or political science...
     
     You can learn more about me and my organization at... 
-        rcwhit80.pythonanywhere.com
+        [rcwhit80.pythonanywhere.com](https://www.rcwhit80.pythonanywhere.com)
 
 <!---
 rcwhit80/rcwhit80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
