@@ -9,7 +9,7 @@ Richard Whitaker, BSChE, MBA, rcwhit80.pythonanywhere.com
     and personnel management, business developent and strategy,
     finance and execution...
     
-    I’m currently developing websites to strengthen my python, SQL,
+    I’m currently developing websites to strengthen my python, javascript, SQL,
     html and CSS skills ...
 
     I’m looking to collaborate on data analysis projects in 
